@@ -1,0 +1,13 @@
+D:\BootcampDioWex\AprendendoSobreTestes\AprendendoSobreTestes\bin\Debug\netcoreapp3.1\AprendendoSobreTestes.exe
+D:\BootcampDioWex\AprendendoSobreTestes\AprendendoSobreTestes\bin\Debug\netcoreapp3.1\AprendendoSobreTestes.deps.json
+D:\BootcampDioWex\AprendendoSobreTestes\AprendendoSobreTestes\bin\Debug\netcoreapp3.1\AprendendoSobreTestes.runtimeconfig.json
+D:\BootcampDioWex\AprendendoSobreTestes\AprendendoSobreTestes\bin\Debug\netcoreapp3.1\AprendendoSobreTestes.runtimeconfig.dev.json
+D:\BootcampDioWex\AprendendoSobreTestes\AprendendoSobreTestes\bin\Debug\netcoreapp3.1\AprendendoSobreTestes.dll
+D:\BootcampDioWex\AprendendoSobreTestes\AprendendoSobreTestes\bin\Debug\netcoreapp3.1\AprendendoSobreTestes.pdb
+D:\BootcampDioWex\AprendendoSobreTestes\AprendendoSobreTestes\obj\Debug\netcoreapp3.1\AprendendoSobreTestes.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootcampDioWex\AprendendoSobreTestes\AprendendoSobreTestes\obj\Debug\netcoreapp3.1\AprendendoSobreTestes.AssemblyInfoInputs.cache
+D:\BootcampDioWex\AprendendoSobreTestes\AprendendoSobreTestes\obj\Debug\netcoreapp3.1\AprendendoSobreTestes.AssemblyInfo.cs
+D:\BootcampDioWex\AprendendoSobreTestes\AprendendoSobreTestes\obj\Debug\netcoreapp3.1\AprendendoSobreTestes.csproj.CoreCompileInputs.cache
+D:\BootcampDioWex\AprendendoSobreTestes\AprendendoSobreTestes\obj\Debug\netcoreapp3.1\AprendendoSobreTestes.dll
+D:\BootcampDioWex\AprendendoSobreTestes\AprendendoSobreTestes\obj\Debug\netcoreapp3.1\AprendendoSobreTestes.pdb
+D:\BootcampDioWex\AprendendoSobreTestes\AprendendoSobreTestes\obj\Debug\netcoreapp3.1\AprendendoSobreTestes.genruntimeconfig.cache
